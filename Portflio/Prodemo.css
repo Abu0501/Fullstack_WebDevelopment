@@ -1,0 +1,173 @@
+*
+{
+    background-image: url(ales-nesetril-Im7lZjxeLhg-unsplash.jpg);
+}
+.homepage
+{
+    color: white;
+}
+
+.homepage:hover{
+    background-color:black;
+}
+.btn1
+{
+    width: 90px;
+    margin-left: 10px;
+    box-sizing:none;
+    transition: 0.6s;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40;
+    box-shadow:100%;
+    color: white;
+    display: inline-block  ;
+}
+.btn1:hover
+{
+    letter-spacing: 0.2em;
+    color:white;
+    background: black;
+    box-shadow: 0 0 100px rgb(74, 184, 248);
+}
+ul li
+{
+    text-align: center;
+    padding: 05px;
+    display: inline-block;
+    color: black;
+    margin-right: 50px;
+    width: 0px;
+}
+ul{
+    margin-left:450px;
+    border-color: transparent;
+    display: inline-block;
+    margin-right: 100px;
+    transition: 0.6s;
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size: 15px;
+}
+nav
+{
+    border-style: solid;
+    border-color: black;
+}
+li:hover
+{
+    letter-spacing: 0.2em;
+
+}
+.contact
+{
+    width: 75px;
+    border-color: none;
+
+}
+li
+{
+    transition: 0.6s;
+    margin-left: 50p0;
+}
+.img-fluid
+{
+    width:600px;
+    margin-left: 240px;
+    border-radius: 10px;
+    transition: 0.8s;
+}
+.img-fluid:hover
+{
+    color: #111;
+    box-shadow: 0 0 100px rgb(247, 249, 249);
+}
+.button2{    
+    border-width: 1px;
+    margin: 150px;
+    bottom: 50px;
+    border-width: 50px;
+    border-color: white;
+    transition: 0.5s;
+    background-color: aliceblue;
+    margin-left: 150px;
+    margin-bottom: 50px;
+    background-color:black;
+    font-size:25px;
+    border-radius: 5px;
+    text-decoration:double;
+    padding: 10px 20px;
+    color: white;
+    font-size:larger;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 25px;
+}
+.button2:hover{
+    letter-spacing: 0.5em;
+    border-color:white;
+    background-color:rgb(85, 85, 223);
+    background: var(--clr);
+    letter-spacing: 0.25em;
+    box-shadow: 0 0 35px var(--clr);
+}
+.button3{    
+    border-width: 1px;
+    margin: 150px;
+    border-color: white;
+    transition: 0.5s;
+    background-color: aliceblue;
+    margin-left: 130px;
+    margin-bottom: 45px;
+    background-color:black;
+    font-size:25px;
+    border-radius: 50px;
+    text-decoration:double;
+    text-align: center;
+    padding: 10px 20px;
+    color: white;
+    font-size: small;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 25px;
+}
+.button3:hover{
+    letter-spacing: 0.5em;
+    border-color:white;
+    background-color:rgb(85, 85, 223);
+    background: var(--clr);
+    letter-spacing: 0.25em;
+    box-shadow: 0 0 35px var(--clr);
+}
+.linkedin
+{
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 30px;
+    border-radius: 10px;
+    transition: 0.6s;
+}
+.linkedin:hover{
+    color: #111;
+    background: blanchedalmond;
+    box-shadow: 0 0 100px rgb(74, 184, 248);
+}
+.instalogo
+{
+    width: 100px;
+    border-radius: 10px;
+    height: 95px;
+    margin-left: 450px;
+    border-color: black;
+    transition: 0.6s;
+}
+.instalogo:hover{
+    color: #111;
+    background: blanchedalmond;
+    box-shadow: 0 0 100px rgb(236, 98, 224);
+}
+.abt
+{
+    color: white;
+    margin-left: 450px;
+    margin-top: 70px;
+}
